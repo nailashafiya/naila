@@ -1,4 +1,4 @@
-import streamlit "
+import streamlit as st
 
 st.title("🐕 Tralala")
 st.write("Latihan membuat website melalui Githuh dan Streamlit dengan menggunakan bahasa Pyhton")
